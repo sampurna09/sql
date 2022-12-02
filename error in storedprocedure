@@ -1,0 +1,3 @@
+SQLCODE and SQLERRM are Oracle's built-in error reporting functions in PL/SQL. 
+When an error occurs in PL/SQL at runtime: SQLCODE returns the number of the last encountered error. 
+SQLERRM returns the message associated with its error-number argument.
